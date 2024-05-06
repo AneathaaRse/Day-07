@@ -1,6 +1,6 @@
 
 
-This task we solving the problems using array functions on rest countries data CLICKHERE.
+This task we solving the problems using array functions on rest countries data.
 
 1,First we get all the countries from Asia continent /region by using Filter function
 
